@@ -15,3 +15,4 @@ Once answering all prompts, the generator will formulatea random password based 
 <img src="Password-Generator-screenshot.png">
 
 ## Link to deployed application
+https://valpal1320.github.io/Password-Generator/
