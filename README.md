@@ -12,7 +12,7 @@ Then, user is required to at least choose one password criteria:
 Once answering all prompts, the generator will formulatea random password based on the user's selection(s).
 
 ## Website Screenshot
-<img src="Password-Generator-screenshot.png">
+<img src = "Password-Generator-screenshot.PNG">
 
 ## Link to deployed application
 https://valpal1320.github.io/Password-Generator/
